@@ -1,50 +1,86 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\pj_final\\",
+  "WorkspaceRootPath": "C:\\Users\\gabri\\source\\repos\\Proyecto-Final\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9829ACF5-9F55-46AE-8E27-5F9166B5A680}|pj_final\\pj_final.csproj|c:\\users\\dell\\source\\repos\\pj_final\\pj_final\\views\\home\\alertamayor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9829ACF5-9F55-46AE-8E27-5F9166B5A680}|pj_final\\pj_final.csproj|solutionrelative:pj_final\\views\\home\\alertamayor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9829ACF5-9F55-46AE-8E27-5F9166B5A680}|pj_final\\pj_final.csproj|c:\\users\\gabri\\source\\repos\\proyecto-final\\pj_final\\datos\\dbusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9829ACF5-9F55-46AE-8E27-5F9166B5A680}|pj_final\\pj_final.csproj|solutionrelative:pj_final\\datos\\dbusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9829ACF5-9F55-46AE-8E27-5F9166B5A680}|pj_final\\pj_final.csproj|c:\\users\\dell\\source\\repos\\pj_final\\pj_final\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9829ACF5-9F55-46AE-8E27-5F9166B5A680}|pj_final\\pj_final.csproj|solutionrelative:pj_final\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9829ACF5-9F55-46AE-8E27-5F9166B5A680}|pj_final\\pj_final.csproj|c:\\users\\dell\\source\\repos\\pj_final\\pj_final\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9829ACF5-9F55-46AE-8E27-5F9166B5A680}|pj_final\\pj_final.csproj|solutionrelative:pj_final\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9829ACF5-9F55-46AE-8E27-5F9166B5A680}|pj_final\\pj_final.csproj|c:\\users\\dell\\source\\repos\\pj_final\\pj_final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9829ACF5-9F55-46AE-8E27-5F9166B5A680}|pj_final\\pj_final.csproj|solutionrelative:pj_final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9829ACF5-9F55-46AE-8E27-5F9166B5A680}|pj_final\\pj_final.csproj|c:\\users\\dell\\source\\repos\\pj_final\\pj_final\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9829ACF5-9F55-46AE-8E27-5F9166B5A680}|pj_final\\pj_final.csproj|solutionrelative:pj_final\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9829ACF5-9F55-46AE-8E27-5F9166B5A680}|pj_final\\pj_final.csproj|c:\\users\\dell\\source\\repos\\pj_final\\pj_final\\controllers\\classuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9829ACF5-9F55-46AE-8E27-5F9166B5A680}|pj_final\\pj_final.csproj|c:\\users\\gabri\\source\\repos\\proyecto-final\\pj_final\\controllers\\classuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9829ACF5-9F55-46AE-8E27-5F9166B5A680}|pj_final\\pj_final.csproj|solutionrelative:pj_final\\controllers\\classuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9829ACF5-9F55-46AE-8E27-5F9166B5A680}|pj_final\\pj_final.csproj|c:\\users\\dell\\source\\repos\\pj_final\\pj_final\\data\\eftutsipopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9829ACF5-9F55-46AE-8E27-5F9166B5A680}|pj_final\\pj_final.csproj|solutionrelative:pj_final\\data\\eftutsipopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9829ACF5-9F55-46AE-8E27-5F9166B5A680}|pj_final\\pj_final.csproj|c:\\users\\dell\\source\\repos\\pj_final\\pj_final\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9829ACF5-9F55-46AE-8E27-5F9166B5A680}|pj_final\\pj_final.csproj|solutionrelative:pj_final\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9829ACF5-9F55-46AE-8E27-5F9166B5A680}|pj_final\\pj_final.csproj|c:\\users\\dell\\source\\repos\\pj_final\\pj_final\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9829ACF5-9F55-46AE-8E27-5F9166B5A680}|pj_final\\pj_final.csproj|solutionrelative:pj_final\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9829ACF5-9F55-46AE-8E27-5F9166B5A680}|pj_final\\pj_final.csproj|c:\\users\\dell\\source\\repos\\pj_final\\pj_final\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{9829ACF5-9F55-46AE-8E27-5F9166B5A680}|pj_final\\pj_final.csproj|c:\\users\\gabri\\source\\repos\\proyecto-final\\pj_final\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{9829ACF5-9F55-46AE-8E27-5F9166B5A680}|pj_final\\pj_final.csproj|solutionrelative:pj_final\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9829ACF5-9F55-46AE-8E27-5F9166B5A680}|pj_final\\pj_final.csproj|c:\\users\\dell\\source\\repos\\pj_final\\pj_final\\pj_final.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{9829ACF5-9F55-46AE-8E27-5F9166B5A680}|pj_final\\pj_final.csproj|solutionrelative:pj_final\\pj_final.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{9829ACF5-9F55-46AE-8E27-5F9166B5A680}|pj_final\\pj_final.csproj|c:\\users\\gabri\\source\\repos\\proyecto-final\\pj_final\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9829ACF5-9F55-46AE-8E27-5F9166B5A680}|pj_final\\pj_final.csproj|solutionrelative:pj_final\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9829ACF5-9F55-46AE-8E27-5F9166B5A680}|pj_final\\pj_final.csproj|c:\\users\\gabri\\source\\repos\\proyecto-final\\pj_final\\views\\inicio\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9829ACF5-9F55-46AE-8E27-5F9166B5A680}|pj_final\\pj_final.csproj|solutionrelative:pj_final\\views\\inicio\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9829ACF5-9F55-46AE-8E27-5F9166B5A680}|pj_final\\pj_final.csproj|c:\\users\\gabri\\source\\repos\\proyecto-final\\pj_final\\servicios\\utilidadservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9829ACF5-9F55-46AE-8E27-5F9166B5A680}|pj_final\\pj_final.csproj|solutionrelative:pj_final\\servicios\\utilidadservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9829ACF5-9F55-46AE-8E27-5F9166B5A680}|pj_final\\pj_final.csproj|c:\\users\\gabri\\source\\repos\\proyecto-final\\pj_final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9829ACF5-9F55-46AE-8E27-5F9166B5A680}|pj_final\\pj_final.csproj|solutionrelative:pj_final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9829ACF5-9F55-46AE-8E27-5F9166B5A680}|pj_final\\pj_final.csproj|c:\\users\\gabri\\source\\repos\\proyecto-final\\pj_final\\views\\home\\alertamayor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9829ACF5-9F55-46AE-8E27-5F9166B5A680}|pj_final\\pj_final.csproj|solutionrelative:pj_final\\views\\home\\alertamayor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9829ACF5-9F55-46AE-8E27-5F9166B5A680}|pj_final\\pj_final.csproj|c:\\users\\gabri\\source\\repos\\proyecto-final\\pj_final\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9829ACF5-9F55-46AE-8E27-5F9166B5A680}|pj_final\\pj_final.csproj|solutionrelative:pj_final\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9829ACF5-9F55-46AE-8E27-5F9166B5A680}|pj_final\\pj_final.csproj|c:\\users\\gabri\\source\\repos\\proyecto-final\\pj_final\\views\\inicio\\restablecer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9829ACF5-9F55-46AE-8E27-5F9166B5A680}|pj_final\\pj_final.csproj|solutionrelative:pj_final\\views\\inicio\\restablecer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9829ACF5-9F55-46AE-8E27-5F9166B5A680}|pj_final\\pj_final.csproj|c:\\users\\gabri\\source\\repos\\proyecto-final\\pj_final\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9829ACF5-9F55-46AE-8E27-5F9166B5A680}|pj_final\\pj_final.csproj|solutionrelative:pj_final\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9829ACF5-9F55-46AE-8E27-5F9166B5A680}|pj_final\\pj_final.csproj|c:\\users\\gabri\\source\\repos\\proyecto-final\\pj_final\\controllers\\iniciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9829ACF5-9F55-46AE-8E27-5F9166B5A680}|pj_final\\pj_final.csproj|solutionrelative:pj_final\\controllers\\iniciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9829ACF5-9F55-46AE-8E27-5F9166B5A680}|pj_final\\pj_final.csproj|c:\\users\\gabri\\source\\repos\\proyecto-final\\pj_final\\models\\correodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9829ACF5-9F55-46AE-8E27-5F9166B5A680}|pj_final\\pj_final.csproj|solutionrelative:pj_final\\models\\correodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9829ACF5-9F55-46AE-8E27-5F9166B5A680}|pj_final\\pj_final.csproj|c:\\users\\gabri\\source\\repos\\proyecto-final\\pj_final\\servicios\\correoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9829ACF5-9F55-46AE-8E27-5F9166B5A680}|pj_final\\pj_final.csproj|solutionrelative:pj_final\\servicios\\correoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9829ACF5-9F55-46AE-8E27-5F9166B5A680}|pj_final\\pj_final.csproj|c:\\users\\gabri\\source\\repos\\proyecto-final\\pj_final\\plantilla\\confirmar.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9829ACF5-9F55-46AE-8E27-5F9166B5A680}|pj_final\\pj_final.csproj|solutionrelative:pj_final\\plantilla\\confirmar.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9829ACF5-9F55-46AE-8E27-5F9166B5A680}|pj_final\\pj_final.csproj|c:\\users\\gabri\\source\\repos\\proyecto-final\\pj_final\\plantilla\\restablecer.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9829ACF5-9F55-46AE-8E27-5F9166B5A680}|pj_final\\pj_final.csproj|solutionrelative:pj_final\\plantilla\\restablecer.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9829ACF5-9F55-46AE-8E27-5F9166B5A680}|pj_final\\pj_final.csproj|c:\\users\\gabri\\source\\repos\\proyecto-final\\pj_final\\views\\inicio\\confirmar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9829ACF5-9F55-46AE-8E27-5F9166B5A680}|pj_final\\pj_final.csproj|solutionrelative:pj_final\\views\\inicio\\confirmar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9829ACF5-9F55-46AE-8E27-5F9166B5A680}|pj_final\\pj_final.csproj|c:\\users\\gabri\\source\\repos\\proyecto-final\\pj_final\\views\\inicio\\registrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9829ACF5-9F55-46AE-8E27-5F9166B5A680}|pj_final\\pj_final.csproj|solutionrelative:pj_final\\views\\inicio\\registrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9829ACF5-9F55-46AE-8E27-5F9166B5A680}|pj_final\\pj_final.csproj|c:\\users\\gabri\\source\\repos\\proyecto-final\\pj_final\\views\\inicio\\actualizar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9829ACF5-9F55-46AE-8E27-5F9166B5A680}|pj_final\\pj_final.csproj|solutionrelative:pj_final\\views\\inicio\\actualizar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9829ACF5-9F55-46AE-8E27-5F9166B5A680}|pj_final\\pj_final.csproj|c:\\users\\gabri\\source\\repos\\proyecto-final\\pj_final\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9829ACF5-9F55-46AE-8E27-5F9166B5A680}|pj_final\\pj_final.csproj|solutionrelative:pj_final\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,148 +90,248 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "alertaMayor.cshtml",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\pj_final\\pj_final\\Views\\Home\\alertaMayor.cshtml",
-              "RelativeDocumentMoniker": "pj_final\\Views\\Home\\alertaMayor.cshtml",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\pj_final\\pj_final\\Views\\Home\\alertaMayor.cshtml",
-              "RelativeToolTip": "pj_final\\Views\\Home\\alertaMayor.cshtml",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAAEIAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-02T14:35:00.943Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\pj_final\\pj_final\\appsettings.json",
-              "RelativeDocumentMoniker": "pj_final\\appsettings.json",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\pj_final\\pj_final\\appsettings.json",
-              "RelativeToolTip": "pj_final\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-30T14:00:09.47Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "users.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\pj_final\\pj_final\\Models\\users.cs",
-              "RelativeDocumentMoniker": "pj_final\\Models\\users.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\pj_final\\pj_final\\Models\\users.cs",
-              "RelativeToolTip": "pj_final\\Models\\users.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T13:36:12.689Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\pj_final\\pj_final\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "pj_final\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\pj_final\\pj_final\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "pj_final\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAkwCAAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T12:29:38.831Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ClassusersController.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\pj_final\\pj_final\\Controllers\\ClassusersController.cs",
-              "RelativeDocumentMoniker": "pj_final\\Controllers\\ClassusersController.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\pj_final\\pj_final\\Controllers\\ClassusersController.cs",
-              "RelativeToolTip": "pj_final\\Controllers\\ClassusersController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T14:00:02.595Z",
-              "EditorCaption": ""
+              "DocumentIndex": 8,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Proyecto-Final\\pj_final\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "pj_final\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\Proyecto-Final\\pj_final\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "pj_final\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-05T18:35:12.079Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\pj_final\\pj_final\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "pj_final\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\pj_final\\pj_final\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "pj_final\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-30T14:07:32.946Z",
-              "EditorCaption": ""
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Proyecto-Final\\pj_final\\appsettings.json",
+              "RelativeDocumentMoniker": "pj_final\\appsettings.json",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\Proyecto-Final\\pj_final\\appsettings.json",
+              "RelativeToolTip": "pj_final\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-05T20:49:05.822Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\pj_final\\pj_final\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "pj_final\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\pj_final\\pj_final\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "pj_final\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Proyecto-Final\\pj_final\\Views\\Inicio\\Login.cshtml",
+              "RelativeDocumentMoniker": "pj_final\\Views\\Inicio\\Login.cshtml",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\Proyecto-Final\\pj_final\\Views\\Inicio\\Login.cshtml",
+              "RelativeToolTip": "pj_final\\Views\\Inicio\\Login.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-30T14:02:00.359Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-05T06:41:26.093Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\pj_final\\pj_final\\Program.cs",
-              "RelativeDocumentMoniker": "pj_final\\Program.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\pj_final\\pj_final\\Program.cs",
-              "RelativeToolTip": "pj_final\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAXAAAAAAAAAA==",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Proyecto-Final\\pj_final\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "pj_final\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\Proyecto-Final\\pj_final\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "pj_final\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-05T19:11:50.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClassusersController.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Proyecto-Final\\pj_final\\Controllers\\ClassusersController.cs",
+              "RelativeDocumentMoniker": "pj_final\\Controllers\\ClassusersController.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\Proyecto-Final\\pj_final\\Controllers\\ClassusersController.cs",
+              "RelativeToolTip": "pj_final\\Controllers\\ClassusersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T14:38:25.147Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-05T16:29:06.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UtilidadServicio.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Proyecto-Final\\pj_final\\Servicios\\UtilidadServicio.cs",
+              "RelativeDocumentMoniker": "pj_final\\Servicios\\UtilidadServicio.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\Proyecto-Final\\pj_final\\Servicios\\UtilidadServicio.cs",
+              "RelativeToolTip": "pj_final\\Servicios\\UtilidadServicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T15:18:16.843Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "EFTutsiPopContext.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\pj_final\\pj_final\\Data\\EFTutsiPopContext.cs",
-              "RelativeDocumentMoniker": "pj_final\\Data\\EFTutsiPopContext.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\pj_final\\pj_final\\Data\\EFTutsiPopContext.cs",
-              "RelativeToolTip": "pj_final\\Data\\EFTutsiPopContext.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Proyecto-Final\\pj_final\\Program.cs",
+              "RelativeDocumentMoniker": "pj_final\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\Proyecto-Final\\pj_final\\Program.cs",
+              "RelativeToolTip": "pj_final\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T14:18:49.259Z",
+              "WhenOpened": "2024-10-05T06:56:13.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DBusers.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Proyecto-Final\\pj_final\\Datos\\DBusers.cs",
+              "RelativeDocumentMoniker": "pj_final\\Datos\\DBusers.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\Proyecto-Final\\pj_final\\Datos\\DBusers.cs",
+              "RelativeToolTip": "pj_final\\Datos\\DBusers.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAowFwAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T06:37:58.374Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\pj_final\\pj_final\\Views\\users\\Create.cshtml",
-              "RelativeDocumentMoniker": "pj_final\\Views\\users\\Create.cshtml",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\pj_final\\pj_final\\Views\\users\\Create.cshtml",
-              "RelativeToolTip": "pj_final\\Views\\users\\Create.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "alertaMayor.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Proyecto-Final\\pj_final\\Views\\Home\\alertaMayor.cshtml",
+              "RelativeDocumentMoniker": "pj_final\\Views\\Home\\alertaMayor.cshtml",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\Proyecto-Final\\pj_final\\Views\\Home\\alertaMayor.cshtml",
+              "RelativeToolTip": "pj_final\\Views\\Home\\alertaMayor.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-30T14:08:17.91Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-05T19:15:41.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Restablecer.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Proyecto-Final\\pj_final\\Views\\Inicio\\Restablecer.cshtml",
+              "RelativeDocumentMoniker": "pj_final\\Views\\Inicio\\Restablecer.cshtml",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\Proyecto-Final\\pj_final\\Views\\Inicio\\Restablecer.cshtml",
+              "RelativeToolTip": "pj_final\\Views\\Inicio\\Restablecer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-05T16:28:57.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InicioController.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Proyecto-Final\\pj_final\\Controllers\\InicioController.cs",
+              "RelativeDocumentMoniker": "pj_final\\Controllers\\InicioController.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\Proyecto-Final\\pj_final\\Controllers\\InicioController.cs",
+              "RelativeToolTip": "pj_final\\Controllers\\InicioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T23:29:24.879Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "pj_final.csproj",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\pj_final\\pj_final\\pj_final.csproj",
-              "RelativeDocumentMoniker": "pj_final\\pj_final.csproj",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\pj_final\\pj_final\\pj_final.csproj",
-              "RelativeToolTip": "pj_final\\pj_final.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-30T13:43:50.742Z"
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Proyecto-Final\\pj_final\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "pj_final\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\Proyecto-Final\\pj_final\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "pj_final\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T16:29:13.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Confirmar.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Proyecto-Final\\pj_final\\Views\\Inicio\\Confirmar.cshtml",
+              "RelativeDocumentMoniker": "pj_final\\Views\\Inicio\\Confirmar.cshtml",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\Proyecto-Final\\pj_final\\Views\\Inicio\\Confirmar.cshtml",
+              "RelativeToolTip": "pj_final\\Views\\Inicio\\Confirmar.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-05T15:42:37.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Confirmar.html",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Proyecto-Final\\pj_final\\Plantilla\\Confirmar.html",
+              "RelativeDocumentMoniker": "pj_final\\Plantilla\\Confirmar.html",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\Proyecto-Final\\pj_final\\Plantilla\\Confirmar.html",
+              "RelativeToolTip": "pj_final\\Plantilla\\Confirmar.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-05T15:43:29.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Registrar.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Proyecto-Final\\pj_final\\Views\\Inicio\\Registrar.cshtml",
+              "RelativeDocumentMoniker": "pj_final\\Views\\Inicio\\Registrar.cshtml",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\Proyecto-Final\\pj_final\\Views\\Inicio\\Registrar.cshtml",
+              "RelativeToolTip": "pj_final\\Views\\Inicio\\Registrar.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-05T08:40:40.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CorreoServicio.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Proyecto-Final\\pj_final\\Servicios\\CorreoServicio.cs",
+              "RelativeDocumentMoniker": "pj_final\\Servicios\\CorreoServicio.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\Proyecto-Final\\pj_final\\Servicios\\CorreoServicio.cs",
+              "RelativeToolTip": "pj_final\\Servicios\\CorreoServicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T07:55:57.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CorreoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Proyecto-Final\\pj_final\\Models\\CorreoDTO.cs",
+              "RelativeDocumentMoniker": "pj_final\\Models\\CorreoDTO.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\Proyecto-Final\\pj_final\\Models\\CorreoDTO.cs",
+              "RelativeToolTip": "pj_final\\Models\\CorreoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T07:55:51.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Restablecer.html",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Proyecto-Final\\pj_final\\Plantilla\\Restablecer.html",
+              "RelativeDocumentMoniker": "pj_final\\Plantilla\\Restablecer.html",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\Proyecto-Final\\pj_final\\Plantilla\\Restablecer.html",
+              "RelativeToolTip": "pj_final\\Plantilla\\Restablecer.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-05T15:44:33.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "users.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Proyecto-Final\\pj_final\\Models\\users.cs",
+              "RelativeDocumentMoniker": "pj_final\\Models\\users.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\Proyecto-Final\\pj_final\\Models\\users.cs",
+              "RelativeToolTip": "pj_final\\Models\\users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T06:53:28.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Actualizar.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Proyecto-Final\\pj_final\\Views\\Inicio\\Actualizar.cshtml",
+              "RelativeDocumentMoniker": "pj_final\\Views\\Inicio\\Actualizar.cshtml",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\Proyecto-Final\\pj_final\\Views\\Inicio\\Actualizar.cshtml",
+              "RelativeToolTip": "pj_final\\Views\\Inicio\\Actualizar.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-05T06:52:00.081Z"
             }
           ]
         }
